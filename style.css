@@ -38,7 +38,7 @@ body {
 }
 .card .profile > img {
     height: 260px;
-    width: 260px;
+    width: auto;
     border-left: 12px solid #07a3e9;
 border-bottom: 12px solid #07a3e9;
 }
